@@ -46,7 +46,7 @@
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=astronautican.astronautican&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=astronautican&left_color=green&right_color=red)
 
 [website]: https://fleminglabs.ca
 [twitter]: https://twitter.com/fleminglabs
