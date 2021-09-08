@@ -42,12 +42,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Astronautican's GitHub stats](https://github-readme-stats.vercel.app/api?username=astronautican)](https://github.com/astronautican/github-readme-stats)
 
-  <img align="left" alt="astronautican GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=astronautican&show_icons=true&hide_border=true" />
+### Profile Visits
 
-</details>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=astronautican.astronautican&left_color=green&right_color=red)
 
 [website]: https://fleminglabs.ca
 [twitter]: https://twitter.com/fleminglabs
