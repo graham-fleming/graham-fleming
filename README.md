@@ -6,8 +6,8 @@ webdeveloper
 
 * 🌍  I'm based in vsncouver
 
-<a href="https://www.twitter.com/twitter" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+<a href="https://www.twitter.com/fleminglabs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/fleminglabs?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a><a href="https://www.github.com/astronautican" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/astronautican?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/astronautican?logo=github&style=for
 <a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/astronautican" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/fleminglabs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/twitter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/fleminglabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
