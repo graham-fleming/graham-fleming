@@ -4,12 +4,16 @@ Hi 👋 My name is graham
 webdeveloper
 ------------
 
-* 🌍  I'm based in vsncouver
+### Hi there 👋
 
-<a href="https://www.twitter.com/fleminglabs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/fleminglabs?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/astronautican" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/astronautican?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+I'm Graham, a software engineer 💻 currently working on building my technology skills🍲🥡
+
+I have a passion for clean code, Javascript, teaching, IOT and Blockchain
+
+[LinkedIn 💼](https://www.linkedin.com/in/fleminglabs/)
+
+[Twitter 🐦](https://twitter.com/FlemingLabs)
+
 
 ### Skills
 
