@@ -1,12 +1,7 @@
 Hi 👋 My name is graham
 =======================
 
-webdeveloper
-------------
-
-### Hi there 👋
-
-I'm Graham, a software engineer 💻 currently working on building my technology skills🍲🥡
+I'm a software engineer 💻 currently working on building my technology skills🍲🥡
 
 I have a passion for clean code, Javascript, teaching, IOT and Blockchain
 
