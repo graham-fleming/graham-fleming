@@ -1,8 +1,6 @@
-# [Graham Fleming](URL)
+# [Graham Fleming](URL) ## ⚠️ Hi I am a Web Developer I'm a software engineer 💻
 
 [![yhh564h46h46h.png](https://i.postimg.cc/C15wCJzc/yhh564h46h46h.png)](https://postimg.cc/JDwwMN3X)
-
-## ⚠️ Hi I am a Web Developer I'm a software engineer 💻 currently working on building my technology skills🍲🥡. I have a passion for clean code, Javascript, teaching, IOT and Blockchain
 
 A service to see your Twitter profile from a new perspective with more details, using all of the data you can get from the [Twitter API](https://developer.twitter.com).
 
@@ -10,7 +8,7 @@ A service to see your Twitter profile from a new perspective with more details, 
 ## 🔥 A little more about me
 =======================
 
-A laittle more
+Currently working on building my technology skills🍲🥡. I have a passion for clean code, Javascript, teaching, IOT and Blockchain
 
 ### Socials
 
