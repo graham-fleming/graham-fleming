@@ -3,7 +3,7 @@
 ## ⚠️ About the migration to the new domain
 Here is a description
 
-![Screenshot of the app](https://i.imgur.com/xMGM29o.png)
+[![yhh564h46h46h.png](https://i.postimg.cc/C15wCJzc/yhh564h46h46h.png)](https://postimg.cc/JDwwMN3X)
 
 A service to see your Twitter profile from a new perspective with more details, using all of the data you can get from the [Twitter API](https://developer.twitter.com).
 
