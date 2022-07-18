@@ -1,19 +1,16 @@
-# [Twitter Profile Viewer](URL)
-
-## ⚠️ About the migration to the new domain
-Here is a description
+# [Graham Fleming](URL)
 
 [![yhh564h46h46h.png](https://i.postimg.cc/C15wCJzc/yhh564h46h46h.png)](https://postimg.cc/JDwwMN3X)
+
+## ⚠️ Hi I am a Web Developer I'm a software engineer 💻 currently working on building my technology skills🍲🥡. I have a passion for clean code, Javascript, teaching, IOT and Blockchain
 
 A service to see your Twitter profile from a new perspective with more details, using all of the data you can get from the [Twitter API](https://developer.twitter.com).
 
 
-## 🔥 Hi 👋 My name is graham
+## 🔥 A little more about me
 =======================
 
-I'm a software engineer 💻 currently working on building my technology skills🍲🥡
-
-I have a passion for clean code, Javascript, teaching, IOT and Blockchain
+A laittle more
 
 ### Socials
 
