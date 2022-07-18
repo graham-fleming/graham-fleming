@@ -1,3 +1,59 @@
+# [Twitter Profile Viewer](URL)
+
+## ⚠️ About the migration to the new domain
+Here is a description
+
+![Screenshot of the app](https://i.imgur.com/xMGM29o.png)
+
+A service to see your Twitter profile from a new perspective with more details, using all of the data you can get from the [Twitter API](https://developer.twitter.com).
+
+
+## 🔥 Hi 👋 My name is graham
+=======================
+
+I'm a software engineer 💻 currently working on building my technology skills🍲🥡
+
+I have a passion for clean code, Javascript, teaching, IOT and Blockchain
+
+### Socials
+
+<p align="left">
+<a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/astronautican" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/fleminglabs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/fleminglabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+## 🔥 Features
+
+- See how many public lists you are a member of.
+- See how many tweets you liked.
+- See your **Twitter User ID**.
+- See your account's **exact** creation date with **hours and minutes**. (Example: 22/01/2018 07:21:29)
+
+## 🌟 Self-hosting
+
+- Clone this repo: `git clone https://github.com/ardasoyturk/twitter-profile-viewer`
+  - Change directory to the new folder: `cd twitter-profile-viewer`
+- Instal dependencies
+  - With `npm`: `npm install`
+  - With `yarn`: `yarn`
+  - With `pnpm`: `pnpm install`
+- Start in development, or build the app
+  - With `npm`: `npm run dev` or `npm run build` (and then `npm run serve`)
+  - With `yarn`: `yarn dev` or `yarn build` (and then `yarn serve`)
+  - With `pnpm`: `pnpm run dev` or `pnpm run build` (and then `pnpm run serve`)
+
+## 🙏 Thanks
+
+- Tools and Libraries;
+  - [Twitter API](https://developer.twitter.com)
+  - [Vue 3](https://v3.vuejs.org)
+  - [Vite](https://vitejs.dev)
+  - [Windi CSS](https://windicss.org)
+  - [VueUse](https://vueuse.org)
+
+
 Hi 👋 My name is graham
 =======================
 
@@ -22,3 +78,5 @@ I have a passion for clean code, Javascript, teaching, IOT and Blockchain
 ### Badges
 
 <a href="https://github.com/graham-fleming" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graham-fleming&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
