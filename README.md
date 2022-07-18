@@ -7,11 +7,10 @@ A service to see your Twitter profile from a new perspective with more details, 
 
 
 ## 🔥 A little more about me
-=======================
 
 Currently working on building my technology skills🍲🥡. I have a passion for clean code, Javascript, teaching, IOT and Blockchain
 
-### Socials
+## 🔥 Socials
 
 <p align="left">
 <a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
@@ -49,22 +48,6 @@ Currently working on building my technology skills🍲🥡. I have a passion for
   - [Windi CSS](https://windicss.org)
   - [VueUse](https://vueuse.org)
 
-
-Hi 👋 My name is graham
-=======================
-
-I'm a software engineer 💻 currently working on building my technology skills🍲🥡
-
-I have a passion for clean code, Javascript, teaching, IOT and Blockchain
-
-### Socials
-
-<p align="left">
-<a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/astronautican" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/fleminglabs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/fleminglabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
 
 ### Skills
 
