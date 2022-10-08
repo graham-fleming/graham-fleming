@@ -1,9 +1,8 @@
 [![yhh564h46h46h.png](https://i.postimg.cc/LXT7TWCw/Screenshot-2022-08-19-143804.png)](#)
 
 # [Graham Fleming](URL) 
-##⚠️ Hi I am a Web Developer I'm a software engineer 💻
 
-## 🔥 A little more about me
+## 💻 A little more about me
 
 Currently working on building my technology skills🍲🥡. I have a passion for clean code, Javascript, IOT and Blockchain
 
