@@ -4,7 +4,8 @@
 
 ## 💻 A little more about me
 
-Currently working on building my technology skills🍲🥡. I have a passion for clean code, Javascript, IOT and Blockchain
+Currently working on building my technology skills🍲🥡
+I have a passion for clean code, Javascript, IOT and Blockchain
 
 ## 🔥 Socials
 
