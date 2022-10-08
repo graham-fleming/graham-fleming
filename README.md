@@ -1,5 +1,3 @@
-[![yhh564h46h46h.png](https://i.postimg.cc/LXT7TWCw/Screenshot-2022-08-19-143804.png)](#)
-
 # [Graham Fleming](URL) 
 
 ## 💻 A little more about me
