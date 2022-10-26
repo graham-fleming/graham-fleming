@@ -5,8 +5,6 @@
 Currently working on building my technology skills🍲🥡
 I have a passion for clean code, Javascript, and IOT.
 
-## 🔥 Skills
-
 - ReactJS admin dashboards
 - AWS cloud platform
 - Sopify ECommerce
