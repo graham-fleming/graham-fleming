@@ -5,7 +5,7 @@ I have a passion for clean code, Javascript, and IOT.
 
 - ReactJS admin dashboards
 - AWS cloud platform
-- Sopify ECommerce
+- Sopify E-Commerce
 - Python development
 
 ## 🌎 Website: https://grahamfleming.dev/
