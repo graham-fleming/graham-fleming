@@ -1,5 +1,3 @@
-# [Graham Fleming](URL) 
-
 ## 💻 A little more about me
 
 Currently working on building my technology skills🍲🥡
