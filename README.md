@@ -1,7 +1,7 @@
 ## 💻 A little more about me
 
 Currently working on building my technology skills🍲🥡
-I have a passion for clean code, Javascript, and IOT.
+I have a passion for clean code, Javascript, and IOT
 
 - ReactJS admin dashboards
 - AWS cloud platform
