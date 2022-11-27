@@ -3,10 +3,10 @@
 Currently working on building my technology skills🍲🥡
 I have a passion for clean code, Javascript, and IOT
 
-- ReactJS admin dashboards
+<!-- - ReactJS admin dashboards
 - AWS cloud platform
 - Sopify E-Commerce
-- Python developments
+- Python developments -->
 
 ## 🌎 Website: https://grahamfleming.dev/
 
