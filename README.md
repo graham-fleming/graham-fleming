@@ -65,4 +65,4 @@ I have a passion for clean code, Javascript, and IOT.
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graham-fleming)](https://github.com/gaham-fleming/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=graham-fleming)](https://github.com/gaham-fleming/)
