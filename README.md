@@ -57,6 +57,3 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=graham-fleming)](https://github.com/gaham-fleming/)
