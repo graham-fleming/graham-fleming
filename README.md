@@ -1,11 +1,6 @@
 ## 💻 A little more about me
 
-🌐 Full Stack Web Dev | 💻 React, Next.js | 🚀 MongoDB, PlanetScaleDB, Firebase | ☁️ AWS | 🔥 Passionate about creating scalable & efficient web solutions | Open Source Enthusiast ✨ Currently working on building my technology skills🍲🥡 I have a passion for clean code, Javascript, and IOT.
-
-<!-- - ReactJS admin dashboards
-- AWS cloud platform
-- Sopify E-Commerce
-- Python developments -->
+🌐💻🚀☁️ Full Stack Web Dev | React | Next.js | SQL | Vercel | 🔥 Passionate about creating scalable & efficient web solutions | Open Source Enthusiast ✨ Currently working on building my technology skills, AI tools, machine learning, Javascript, and IOT.
 
 ## 🌎 Website: https://grahamfleming.dev/
 
