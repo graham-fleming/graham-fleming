@@ -1,6 +1,6 @@
 ## 💻 A little about me
 
-🌐💻🚀☁️ Full Stack Web Dev | React | Next.js | SQL | Vercel | Passionate about creating scalable & efficient web solutions | Open Source Enthusiast Currently working on building my technology skills, AI tools, machine learning, Javascript, and IOT.
+🌐💻🚀☁️ Full Stack Developer | React | Next.js | SQL | Vercel | Passionate about creating scalable & efficient web solutions | Open Source Enthusiast Currently working on building my technology skills, AI tools, machine learning, Javascript, and IOT.
 
 ## 🌎 Website: https://grahamfleming.dev/
 
