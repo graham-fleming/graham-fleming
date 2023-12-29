@@ -1,7 +1,6 @@
 ## 💻 Graham Fleming
 
 🌐💻🚀☁️ Full Stack Developer | React | Next.js | SQL | Vercel | Passionate about creating scalable & efficient web solutions | Open Source Enthusiast Currently working on building my technology skills, AI tools, machine learning, Javascript, and IOT.
-##
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
@@ -23,4 +22,4 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## 🌎https://grahamfleming.com | <a href="https://twitter.com/GrahamFleming_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a>  <a href="https://www.linkedin.com/in/grahamfleming-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a>  <a href="https://grahamfleming.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="24" height="24" /></a>  <a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="24" height="24" /></a>
+🌎https://grahamfleming.com | <a href="https://twitter.com/GrahamFleming_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a>  <a href="https://www.linkedin.com/in/grahamfleming-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a>  <a href="https://grahamfleming.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="24" height="24" /></a>  <a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="24" height="24" /></a>
