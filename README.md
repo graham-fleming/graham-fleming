@@ -1,20 +1,43 @@
-## 💻 Graham Fleming
+# 👋 Graham Fleming
 
-🌐💻🚀☁️ Full Stack Developer | React | Next.js | SQL | Vercel | Passionate about creating scalable & efficient web solutions | Open Source Enthusiast Currently working on building my technology skills, AI tools, machine learning, Javascript, and IOT.
-<p>
+🌐 **Full-Stack Engineer** | Scalable Infrastructure & AI Solutions
+
+I'm a engineer dedicated to building reliable, efficient, and innovative systems that push the boundaries of technology. With a focus on AI, IoT, and modern web development, I thrive on solving complex problems and creating impactful solutions. Currently, I'm shaping the future of AI infrastructure at NeuralHub, driving software engineering excellence at AthosAI, and exploring creative side projects like Bling at AddChainz. As an open-source enthusiast i'm always diving into cutting-edge platforms, from real-time analytics to robotics, to make ideas come to life.
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## 🌎https://grahamfleming.com | <a href="https://twitter.com/GrahamFleming_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a>  <a href="https://www.linkedin.com/in/grahamfleming-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /></a>  <a href="https://grahamfleming.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="24" height="24" /></a>  <a href="https://www.dev.to/kaleidobro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="24" height="24" /></a>
+---
+
+## 🚀 Projects
+
+- **[NeuralHub AI Gateway](https://www.neuralhub.xyz/)**: Developer API for integrating AI models like Gemini 2.5 Flash, with rate limiting, caching, and easy HTTP requests (Infrastructure).
+- **[AthosAI](https://athosai.com/)**: Next-gen AI infrastructure for product development, UI/UX, growth strategies, and workflow automation (Software Engineer).
+
+---
+
+## 🌐 Connect
+
+- 🌎 [Website](https://grahamfleming.com)
+- 🐦 [X](https://x.com/grahamfleming_)
+- 💼 [LinkedIn](https://www.linkedin.com/in/grahamfleming-dev/)
+- 📝 [Hashnode](https://grahamfleming.hashnode.dev)
+
+💬 *DMs open on X for tech collabs!*
